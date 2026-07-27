@@ -42,6 +42,8 @@ Interests... Artificial Intelligence
 ............. Generative AI
 
 Contact..... GitHub : github.com/SANIA186
+............. Email : saniafarheenibrahim@gmail.com.com
+
 
 Status...... Learning • Building • Growing 🚀
 ```
