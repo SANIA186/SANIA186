@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 <a href="https://github.com/SANIA186">
@@ -306,4 +306,4 @@ Computer vision system that detects workplace safety equipment and evaluates PPE
 <a href="#">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C4A6E,50:0EA5E9,100:38BDF8&height=100&section=footer" width="100%"/>
 </a>
-```
+
