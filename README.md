@@ -1,220 +1,227 @@
 
+# SANIA FARHEEN I
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=SANIA%20FARHEEN&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20%2F%20AI%20%2F%20SOFTWARE&descSize=18&descAlignY=60&animation=fadeIn&color=0:020617,50:111827,100:155E75" width="100%"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=67E8F9&center=true&vCenter=true&width=800&lines=Data+Analytics+%7C+AI%2FML+%7C+Software+Development;Building+practical+data-driven+solutions.;From+data+to+intelligence+to+applications." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Data+Analytics+%7C+AI%2FML+%7C+Software+Development;Building+data-driven+and+intelligent+applications.;Turning+data+into+insights%2C+models+into+systems." />
 
 <br/><br/>
 
-<a href="https://prism-ml-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/PORTFOLIO-OPEN-67E8F9?style=for-the-badge&labelColor=020617&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/sania-farheen-i-32a4b3307">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-FFFFFF?style=for-the-badge&labelColor=020617&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:saniafarheenibrahim@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-67E8F9?style=for-the-badge&labelColor=020617&logo=gmail&logoColor=white"/>
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://prism-ml-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sania-farheen-i-32a4b3307)
+[![Email](https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saniafarheenibrahim@gmail.com)
 
 </div>
 
-<br/>
+---
+
+## About Me
+
+🎓 Final-year **Computer Science & Engineering** student focused on **Data Analytics, AI/ML, and Software Development**.
+
+📊 I work with data through **cleaning, preprocessing, EDA, visualization, statistical analysis, and predictive modeling**.
+
+🤖 I build practical AI applications involving **Machine Learning, Deep Learning, Computer Vision, and Generative AI**.
+
+💻 Currently strengthening **Python, SQL, backend development, REST APIs, and AI integration** while building real-world applications.
 
 ---
 
-## PROFILE
-
-<table width="100%">
-<tr>
-<td width="65%" valign="top">
-
-### SANIA FARHEEN I
-
-Final-year **Computer Science and Engineering** student focused on:
-
-- Data Analytics
-- Machine Learning
-- Computer Vision
-- Practical Software Development
-
-Interested in transforming raw data and AI models into useful, real-world applications.
-
-</td>
-
-<td width="35%" valign="top">
-
-```text
-PROFILE
-──────────────────
-ROLE
-Data Analyst
-AI/ML Engineer
-
-STATUS
-Building
-
-GRADUATION
-2027
-````
-
-</td>
-</tr>
-</table>
-
----
-
-## ENGINEERING STACK
+## Engineering Stack
 
 <div align="center">
 
 ### PROGRAMMING
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts&theme=dark" />
 
 <br/><br/>
 
-### DATA ANALYTICS
+### DATA & ANALYTICS
+
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
 
 <br/><br/>
 
 ### AI / MACHINE LEARNING
 
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn&theme=dark" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/CNN%20%7C%20RNN%20%7C%20BiLSTM-111827?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLO%20%7C%20Object%20Detection-111827?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLO-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DeepFace-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BiLSTM-111827?style=for-the-badge"/>
 
 <br/><br/>
 
-### SOFTWARE / FRAMEWORKS
+### SOFTWARE / WEB
 
-<img src="https://skillicons.dev/icons?i=flask,react,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,flask,fastapi,tailwind&theme=dark" />
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge"/>
+
+<br/><br/>
+
+### TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" />
 
 </div>
 
 ---
 
-## SELECTED WORK
+## Selected Work
 
-<table width="100%">
+<div align="center">
+
+<table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### PROGNOSAI
 
-**Predictive Maintenance**
+**AI-Based Predictive Maintenance**
 
-Time-series based system for estimating engine Remaining Useful Life using a BiLSTM-Attention model.
+Predicts engine Remaining Useful Life from time-series sensor data using a **BiLSTM-Attention** model.
 
 `Python` `TensorFlow` `BiLSTM` `Streamlit`
 
 </td>
+
 <td width="50%" valign="top">
 
 ### PPE COMPLIANCE AUDITOR
 
-**Computer Vision**
+**Computer Vision for Workplace Safety**
 
-Detects missing safety equipment, including helmets, gloves, vests, boots, and goggles.
+Detects workers and identifies missing PPE such as helmets, gloves, vests, boots, and goggles.
 
 `Python` `YOLO` `OpenCV` `Ultralytics`
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### FACE RECOGNITION ATTENDANCE
 
-**AI Application**
+**Real-Time AI Application**
 
-Real-time attendance system with face recognition, check-in/check-out, unknown-person detection, and a React dashboard.
+Face recognition system with automated attendance, check-in/check-out, unknown-person detection, and dashboard monitoring.
 
 `DeepFace` `Flask` `React` `Python`
 
 </td>
+
 <td width="50%" valign="top">
 
 ### CUSTOMER SUPPORT ANALYTICS
 
-**Data Analytics**
+**Data Analytics & Business Intelligence**
 
-Customer support ticket analysis using Python, Pandas, and NumPy, supported by Power BI dashboards for KPI tracking and business insights.
+Analyzes customer support tickets to identify patterns and resolution trends, supported by Power BI KPI dashboards.
 
 `Python` `Pandas` `NumPy` `Power BI`
 
 </td>
+
 </tr>
 </table>
 
+</div>
+
 ---
 
-## PROFESSIONAL EXPOSURE
+## Experience
+
+**AI Data Analyst Intern — Excelerate**  
+`Jan 2026 – Feb 2026`
+
+Customer support ticket analytics using Python, Pandas, NumPy and Power BI.
+
+<br/>
+
+**AI & Data Analytics Intern — Infosys Springboard**  
+`Oct 2025 – Dec 2025`
+
+Built **PrognosAI**, applying time-series analysis and BiLSTM-Attention modelling for predictive maintenance.
+
+---
+
+## What I'm Building Toward
 
 ```text
-2026  ─  AI DATA ANALYST INTERN
-        Excelerate
-
-2025  ─  AI & DATA ANALYTICS INTERN
-        Infosys Springboard
-
-2027  ─  EXPECTED GRADUATION
-        B.E. Computer Science & Engineering
-```
+DATA
+  │
+  ├── Cleaning
+  ├── EDA
+  ├── Visualization
+  └── Statistical Analysis
+        │
+        ▼
+INTELLIGENCE
+  │
+  ├── Machine Learning
+  ├── Deep Learning
+  ├── Computer Vision
+  └── Generative AI
+        │
+        ▼
+SOFTWARE
+  │
+  ├── APIs
+  ├── Backend
+  ├── Dashboards
+  └── Full-Stack Applications
+        │
+        ▼
+REAL-WORLD SYSTEMS
+````
 
 ---
 
-## CURRENT INTERESTS
+## GitHub Activity
 
 <div align="center">
 
-`Data Cleaning` · `EDA` · `Predictive Modeling` · `Computer Vision`
-
-`REST APIs` · `Dashboard Development` · `AI Integration`
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SANIA186&bg_color=0D1117&color=38BDF8&line=0EA5E9&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="95%" />
 
 </div>
 
 ---
 
-## GITHUB ACTIVITY
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SANIA186&bg_color=020617&color=67E8F9&line=0891B2&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="96%"/>
+### `LEARN • BUILD • ANALYZE • CREATE`
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1000&color=94A3B8&center=true&vCenter=true&width=650&lines=LEARN+%2F+BUILD+%2F+IMPROVE;Turning+data+into+useful+systems.;SANIA_186+%2F%2F+END" />
-
-<br/><br/>
+<br/>
 
 <a href="https://prism-ml-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-67E8F9?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-38BDF8?style=for-the-badge&labelColor=0D1117"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:155E75,50:111827,100:020617" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=SANIA186&style=flat-square&color=38BDF8&label=PROFILE+VIEWS"/>
 
 </div>
 
+
+**This is the direction I would use:** your **Engineering Stack remains the visual centerpiece**, while the rest reads more like a real professional profile rather than a GPRM-generated README.
