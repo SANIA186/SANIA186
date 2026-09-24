@@ -1,207 +1,102 @@
-
-# SANIA FARHEEN I
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Data+Analytics+%7C+AI%2FML+%7C+Software+Development;Building+data-driven+and+intelligent+applications.;Turning+data+into+insights%2C+models+into+systems." />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:312E81,100:0891B2&height=220&section=header&text=SANIA%20FARHEEN%20I&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%7C%20DATA%20%7C%20SOFTWARE%20ENGINEERING&descAlignY=60&descSize=17&animation=fadeIn" width="100%"/>
 
-<br/><br/>
+<br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://prism-ml-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sania-farheen-i-32a4b3307)
-[![Email](https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saniafarheenibrahim@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=700&color=67E8F9&center=true&vCenter=true&width=800&lines=Building+practical+AI+systems+from+data+to+deployment;Machine+Learning+%7C+Computer+Vision+%7C+Data+Analytics;Python+%7C+Backend+%7C+Full-Stack+AI;Turning+problems+into+working+systems+%E2%9A%A1" />
+
+<br><br>
+
+<a href="https://prism-ml-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-0891B2?style=for-the-badge&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/sania-farheen-i-32a4b3307/">
+<img src="https://img.shields.io/badge/%F0%9F%92%BC%20LinkedIn-312E81?style=for-the-badge&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:saniafarheenibrahim@gmail.com">
+<img src="https://img.shields.io/badge/%F0%9F%93%A9%20Email-0F766E?style=for-the-badge&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=SANIA186&label=PROFILE%20SIGNALS&color=0891B2&style=flat-square"/>
 
 </div>
 
 ---
 
-## About Me
-
-🎓 Final-year **Computer Science & Engineering** student focused on **Data Analytics, AI/ML, and Software Development**.
-
-📊 I work with data through **cleaning, preprocessing, EDA, visualization, statistical analysis, and predictive modeling**.
-
-🤖 I build practical AI applications involving **Machine Learning, Deep Learning, Computer Vision, and Generative AI**.
-
-💻 Currently strengthening **Python, SQL, backend development, REST APIs, and AI integration** while building real-world applications.
-
----
-
-## Engineering Stack
-
 <div align="center">
 
-### PROGRAMMING
-
-<img src="https://skillicons.dev/icons?i=python,java,js,ts&theme=dark" />
-
-<br/><br/>
-
-### DATA & ANALYTICS
-
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-
-<br/><br/>
-
-### AI / MACHINE LEARNING
-
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn&theme=dark" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLO-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DeepFace-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BiLSTM-111827?style=for-the-badge"/>
-
-<br/><br/>
-
-### SOFTWARE / WEB
-
-<img src="https://skillicons.dev/icons?i=react,flask,fastapi,tailwind&theme=dark" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge"/>
-
-<br/><br/>
-
-### TOOLS
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" />
+### `01 / ABOUT`
 
 </div>
-
----
-
-## Selected Work
-
-<div align="center">
 
 <table>
 <tr>
+<td width="55%" valign="top">
 
-<td width="50%" valign="top">
+## 👩‍💻 Sania Farheen I
 
-### PROGNOSAI
+Final-year **Computer Science & Engineering** student focused on building practical solutions across:
 
-**AI-Based Predictive Maintenance**
+* 🤖 Artificial Intelligence
+* 🧠 Machine Learning
+* 👁️ Computer Vision
+* 📊 Data Analytics
+* ⚙️ Python Backend Development
+* 🌐 Full-Stack AI Applications
 
-Predicts engine Remaining Useful Life from time-series sensor data using a **BiLSTM-Attention** model.
+I enjoy taking a problem through the complete pipeline:
 
-`Python` `TensorFlow` `BiLSTM` `Streamlit`
-
-</td>
-
-<td width="50%" valign="top">
-
-### PPE COMPLIANCE AUDITOR
-
-**Computer Vision for Workplace Safety**
-
-Detects workers and identifies missing PPE such as helmets, gloves, vests, boots, and goggles.
-
-`Python` `YOLO` `OpenCV` `Ultralytics`
+**Data → Processing → Model → API → Interface → Insight**
 
 </td>
 
-</tr>
+<td width="45%" valign="top">
 
-<tr>
-
-<td width="50%" valign="top">
-
-### FACE RECOGNITION ATTENDANCE
-
-**Real-Time AI Application**
-
-Face recognition system with automated attendance, check-in/check-out, unknown-person detection, and dashboard monitoring.
-
-`DeepFace` `Flask` `React` `Python`
-
-</td>
-
-<td width="50%" valign="top">
-
-### CUSTOMER SUPPORT ANALYTICS
-
-**Data Analytics & Business Intelligence**
-
-Analyzes customer support tickets to identify patterns and resolution trends, supported by Power BI KPI dashboards.
-
-`Python` `Pandas` `NumPy` `Power BI`
+```text
+╭──────────────────────────────╮
+│       AI ENGINEERING OS      │
+├──────────────────────────────┤
+│                              │
+│  DATA        ████████████    │
+│  MACHINE     ████████████    │
+│  VISION      ████████████    │
+│  BACKEND     ████████████    │
+│  WEB         ████████████    │
+│  GENAI       ████████████    │
+│                              │
+╰──────────────────────────────╯
+```
 
 </td>
-
 </tr>
 </table>
 
-</div>
-
 ---
-
-## Experience
-
-**AI Data Analyst Intern — Excelerate**  
-`Jan 2026 – Feb 2026`
-
-Customer support ticket analytics using Python, Pandas, NumPy and Power BI.
-
-<br/>
-
-**AI & Data Analytics Intern — Infosys Springboard**  
-`Oct 2025 – Dec 2025`
-
-Built **PrognosAI**, applying time-series analysis and BiLSTM-Attention modelling for predictive maintenance.
-
----
-
-## What I'm Building Toward
-
-```text
-DATA
-  │
-  ├── Cleaning
-  ├── EDA
-  ├── Visualization
-  └── Statistical Analysis
-        │
-        ▼
-INTELLIGENCE
-  │
-  ├── Machine Learning
-  ├── Deep Learning
-  ├── Computer Vision
-  └── Generative AI
-        │
-        ▼
-SOFTWARE
-  │
-  ├── APIs
-  ├── Backend
-  ├── Dashboards
-  └── Full-Stack Applications
-        │
-        ▼
-REAL-WORLD SYSTEMS
-````
-
----
-
-## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SANIA186&bg_color=0D1117&color=38BDF8&line=0EA5E9&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="95%" />
+### `02 / ENGINEERING STACK`
+
+</div>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,sql,react,nodejs,flask,html,css,tailwind,mongodb,mysql,tensorflow,opencv,git,github,vscode&perline=9" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLO-111827?style=for-the-badge&logoColor=white"/>
 
 </div>
 
@@ -209,18 +104,43 @@ REAL-WORLD SYSTEMS
 
 <div align="center">
 
-### `LEARN • BUILD • ANALYZE • CREATE`
-
-<br/>
-
-<a href="https://prism-ml-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-38BDF8?style=for-the-badge&labelColor=0D1117"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=SANIA186&style=flat-square&color=38BDF8&label=PROFILE+VIEWS"/>
+### `03 / KNOWLEDGE MAP`
 
 </div>
 
+<table>
+<tr>
+<td align="center" width="25%">
 
+### 🤖 AI
+
+Generative AI
+Prompt Engineering
+LLMs
+AI Applications
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧠 ML
+
+Classification
+Regression
+Feature Engineering
+Model Evaluation
+
+</td>
+
+<td align="center" width="25%">
+
+### 👁️ VISION
+
+CNN
+YOLO
+Object Detection
+Face Recognition
+
+</td>
+
+<td align="center" width="25%">
