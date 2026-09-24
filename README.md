@@ -1,35 +1,185 @@
-# Revised GitHub Profile README
-
-
+````md
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0B1120,75:0369A1,100:38BDF8&height=230&section=header&text=SANIA%20FARHEEN&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=AI%20%2F%20DATA%20%2F%20SOFTWARE&descSize=21&descAlignY=58" width="100%"/>
+<!-- ========================================================= -->
+<!--                    SANIA // AI INTERFACE                  -->
+<!-- ========================================================= -->
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=SANIA%20FARHEEN&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=INTELLIGENCE%20%2F%20SOFTWARE%20%2F%20DATA&descSize=17&descAlignY=60&animation=fadeIn&color=0:050505,50:111827,100:164E63"
+  width="100%"
+/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+intelligent+systems+from+data+to+deployment.;Machine+Learning+%7C+Computer+Vision+%7C+Data+Analytics;Turning+ideas+into+working+software.;Final-year+CSE+student+%7C+AI+%2B+Software" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=1000&color=67E8F9&center=true&vCenter=true&width=760&lines=Designing+systems+that+turn+data+into+decisions.;AI+%2B+Backend+%2B+Applied+Intelligence;From+experiments+to+usable+software."
+/>
 
 <br/><br/>
 
 <a href="https://prism-ml-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-38BDF8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=020617"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-FFFFFF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=FFFFFF"/>
 </a>
-
+&nbsp;
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LINKEDIN-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617"/>
+<img src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=FFFFFF"/>
 </a>
-
+&nbsp;
 <a href="mailto:saniafarheenibrahim@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-38BDF8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020617"/>
+<img src="https://img.shields.io/badge/CONTACT-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black&labelColor=FFFFFF"/>
 </a>
 
 </div>
 
 <br/>
 
+<!-- ========================================================= -->
+<!--                       SYSTEM HEADER                       -->
+<!-- ========================================================= -->
+
+<table width="100%">
+<tr>
+<td>
+
+```text
+SANIA_186 / PERSONAL INTERFACE
+──────────────────────────────────────────────
+MODE       BUILDING
+DOMAIN     AI · DATA · SOFTWARE
+ACADEMIC   B.E. COMPUTER SCIENCE & ENGINEERING
+TIMELINE   2027
+````
+
+</td>
+<td align="right">
+
+```text
+┌────────────────────────┐
+│  SYSTEM STATUS         │
+│                        │
+│  ● LEARNING            │
+│  ● EXPERIMENTING       │
+│  ● ENGINEERING         │
+└────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 ---
 
-## ENGINEERING STACK
+## 01 / SYSTEM OVERVIEW
+
+I am a Computer Science and Engineering student working across **Artificial Intelligence, Data Analytics, and Software Development**.
+
+My interest lies in connecting machine learning with practical applications—through data pipelines, backend APIs, interfaces, and intelligent workflows.
+
+```text
+INPUT                  PROCESS                  OUTPUT
+
+DATA          ───────►  INTELLIGENCE   ───────►  APPLICATION
+SENSORS                ML / AI                  API / UI
+IMAGES                 ANALYTICS                INSIGHTS
+EVENTS                 REASONING                DECISIONS
+```
+
+<br/>
+
+---
+
+## 02 / ACTIVE SYSTEMS
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### SCAMECOSYSTEM-X
+
+`INVESTIGATION / GRAPH INTELLIGENCE`
+
+A defensive academic platform focused on connecting suspicious entities, relationships, and events to identify broader scam campaigns.
+
+**Core**
+
+* Entity resolution
+* Graph-based relationships
+* Campaign discovery
+* Explainable insights
+
+`FastAPI` `React` `PostgreSQL`
+
+</td>
+
+<td width="50%" valign="top">
+
+### FACEGUARD
+
+`COMPUTER VISION / AUTOMATION`
+
+A face recognition attendance application designed around recognition stability, attendance workflows, and dashboard-based monitoring.
+
+**Core**
+
+* Face recognition
+* Check-in / check-out
+* Unknown-person alerts
+* Web dashboard
+
+`DeepFace` `Flask` `React`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### PROGNOSAI
+
+`TIME SERIES / PREDICTIVE MAINTENANCE`
+
+A predictive-maintenance system that uses sensor data and sequence modelling to estimate remaining useful life.
+
+**Core**
+
+* Time-series processing
+* BiLSTM modelling
+* Attention mechanism
+* Maintenance alerts
+
+`Python` `TensorFlow` `Streamlit`
+
+</td>
+
+<td width="50%" valign="top">
+
+### PPE VISION
+
+`COMPUTER VISION / SAFETY`
+
+A vision-based system for detecting personal protective equipment and generating safety-related compliance insights.
+
+**Core**
+
+* Object detection
+* PPE identification
+* Visual monitoring
+* Compliance analysis
+
+`YOLO` `OpenCV` `Ultralytics`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+## 03 / ENGINEERING STACK
 
 <div align="center">
 
@@ -51,7 +201,7 @@
 
 <br/><br/>
 
-### DATA / TOOLS
+### DATA / DEVELOPMENT
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,vscode&theme=dark"/>
 
@@ -68,9 +218,79 @@
 
 ---
 
+## 04 / SYSTEM INTERESTS
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+**INTELLIGENCE**
+
+```text
+Machine Learning
+Computer Vision
+Predictive Systems
+Model Evaluation
+```
+
+</td>
+<td width="33%" valign="top">
+
+**APPLICATIONS**
+
+```text
+Backend APIs
+Full-Stack Systems
+Data Pipelines
+Application Integration
+```
+
+</td>
+<td width="33%" valign="top">
+
+**EXPLORATION**
+
+```text
+Intelligent Agents
+Data Products
+Deployment
+System Design
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+## 05 / BUILD SIGNAL
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=900&color=64748B&center=true&vCenter=true&width=650&lines=DATA+%E2%86%92+INTELLIGENCE+%E2%86%92+SOFTWARE;Exploring+the+space+between+models+and+real+systems.;Building+with+curiosity.+Improving+with+every+iteration." />
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=900&color=67E8F9&center=true&vCenter=true&width=720&lines=MODEL+%E2%86%92+API+%E2%86%92+INTERFACE;Understand+the+data.;Build+the+system.;Improve+the+experience."
+/>
+
+</div>
+
+<br/>
+
+My current direction is to strengthen the connection between **machine learning and software engineering** by building applications that go beyond model training.
+
+<br/>
+
+---
+
+## 06 / GITHUB ACTIVITY
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=SANIA186&bg_color=050505&color=67E8F9&line=0891B2&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20SIGNAL"
+width="96%"
+/>
 
 </div>
 
@@ -78,62 +298,24 @@
 
 ---
 
-## GITHUB ACTIVITY
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SANIA186&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=020617&title_color=38BDF8&icon_color=0EA5E9&text_color=CBD5E1" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANIA186&layout=compact&hide_border=true&langs_count=8&bg_color=020617&title_color=38BDF8&text_color=CBD5E1" height="170"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=SANIA186&theme=dark&hide_border=true&background=020617&ring=38BDF8&fire=0EA5E9&currStreakLabel=38BDF8" height="170"/>
-
-</div>
-
-<br/>
-
----
-
-## CONTRIBUTION GRAPH
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SANIA186&bg_color=020617&color=38BDF8&line=0EA5E9&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="95%"/>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=LEARN.+BUILD.+SOLVE.+EVOLVE.;One+system+at+a+time.;SANIA_186+%2F%2F+END" />
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1000&color=94A3B8&center=true&vCenter=true&width=650&lines=INTERFACE+CLOSED.;SYSTEM+STILL+RUNNING.;BUILDING+THE+NEXT+ITERATION."
+/>
 
 <br/><br/>
 
 <a href="https://prism-ml-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/%E2%86%92%20EXPLORE%20MY%20PORTFOLIO-38BDF8?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/OPEN%20PORTFOLIO-67E8F9?style=for-the-badge&labelColor=050505&color=67E8F9"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=SANIA186&label=PROFILE%20VIEWS&color=38BDF8&style=flat-square"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0369A1,100:020617&height=120&section=footer" width="100%"/>
+<img
+src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:164E63,50:111827,100:050505"
+width="100%"
+/>
 
 </div>
-
-### What changed
-
-* **Engineering Stack:** Preserved your preferred design.
-* **Projects:** Removed the generic project-card section completely.
-* **Identity:** Removed the box-style personal information.
-* **Development Philosophy:** Removed the large flowchart.
-* **Telemetry:** Two statistics cards are aligned in one row; the streak card is below.
-* **Activity:** One contribution graph only, with no additional image icons.
-* **Overall:** A simpler portfolio-oriented profile with less visual clutter.
+```
